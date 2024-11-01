@@ -1,9 +1,4 @@
-| CI | win-x64 | linux-x64 | osx-x64 | Examples <br/> (win-x64) | Softphone <br/> (win-x64) |
-|-|-|-|-|-|-|
-| <sup>AppVeyor</sup> | [![Build status](https://ci.appveyor.com/api/projects/status/1prvhq7jyw0s5fb1/branch/master?svg=true&passingText=ok)](https://ci.appveyor.com/project/sipsorcery/sipsorcery/branch/master) | [![Build status](https://ci.appveyor.com/api/projects/status/cark9l28ovb8o886/branch/master?svg=true&passingText=ok)](https://ci.appveyor.com/project/sipsorcery/sipsorcery-5aavr/branch/master) | [![Build status](https://ci.appveyor.com/api/projects/status/7mrg69mtolwceplg/branch/master?svg=true&passingText=ok)](https://ci.appveyor.com/project/sipsorcery/sipsorcery-jyl3x/branch/master) | [![Examples build status](https://ci.appveyor.com/api/projects/status/4myf11mda0p69ysm/branch/master?svg=true&passingText=ok)](https://ci.appveyor.com/project/sipsorcery/sipsorcery-mre1o/branch/master) | [![Softphone build status](https://ci.appveyor.com/api/projects/status/xx1bcttkk4gbrd3y/branch/master?svg=true&passingText=ok)](https://ci.appveyor.com/project/sipsorcery/sipsorcery-0p6s4/branch/master) |
-| <sup>GitHub Actions</sup> | ![](https://github.com/sipsorcery-org/sipsorcery/actions/workflows/sipsorcery-core-win.yml/badge.svg) | ![](https://github.com/sipsorcery-org/sipsorcery/actions/workflows/sipsorcery-core-ubuntu.yml/badge.svg) | ![](https://github.com/sipsorcery-org/sipsorcery/actions/workflows/sipsorcery-core-mac.yml/badge.svg) | ![](https://github.com/sipsorcery-org/sipsorcery/actions/workflows/examples-core-win.yml/badge.svg) | | |
-
-
+31211221
 ## What Is It?
 
 **This fully C# library can be used to add Real-time Communications, typically audio and video calls, to .NET applications.**
